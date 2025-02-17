@@ -25,5 +25,7 @@ I'm currently studying Python fundamentals, focusing on essential programming co
 
 💻 [Regular Expresions](https://github.com/Viktoria-Todorova/Fundamentals_Exercises/tree/Fundamentals/9_regular_expresions)
 
+![Programming Fundamentals with Python - September 2024 - Certificate (2)](https://github.com/user-attachments/assets/59ca281c-b1c2-49a0-9d36-4441cfbcd203)
+
 
 
